@@ -8,8 +8,6 @@
 
 # Simple Calculator Program 
 
-# Basic Calculator Program
-
 The basic calculator program is designed to perform arithmetic operations based on user inputs. It guides the user through a series of steps to enter numbers and choose an operation, then performs the selected operation and displays the result.
 
 ## Steps of the Program
